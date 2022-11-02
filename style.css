@@ -1,0 +1,19 @@
+.main1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+body{
+    background-image: url("covid2.jpeg");
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+.form-group{
+ 
+    color:white;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
